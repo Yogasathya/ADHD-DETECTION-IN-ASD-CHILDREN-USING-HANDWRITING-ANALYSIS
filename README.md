@@ -143,12 +143,13 @@ To build a machine learning system capable of detecting ADHD and related neurode
 ```bash
 git clone https://github.com/your-username/adhd-detection-handwriting.git
 cd adhd-detection-handwriting
-2. Install Dependencies
+
+### 2. Install Dependencies
 pip install -r requirements.txt
-3. (Optional) Enable GPU
+### 3. (Optional) Enable GPU
 Ensure TensorFlow GPU is installed and CUDA is configured.
 
-▶️ Usage
+### ▶️ Usage
 **1. Run the Basic Script
 python adhd_detection.py**
 **2. Run the Advanced GPU-Enabled Script
